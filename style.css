@@ -20,8 +20,6 @@ body,html{
   }
   #about-info{
     font-size: 8vw;
-    /* justify-content: center; */
-    
   }
 }
 
@@ -30,21 +28,7 @@ body,html{
     width: 70%;
     margin: auto;
   }
-  
 }
-
-/* @media only screen and (min-width: 768px){
-  #blogmargin{
-    margin-left: 13px;
-    margin-right: 13px;
-  }
-} */
-  
-
-/* .nav-options .nav-link:hover {
-  color: black;
-  
-} */
 
 .container-fluid .navbar-brand {
   margin-left: 20%;
@@ -54,11 +38,9 @@ body,html{
   font-size: 200%;
 }
 
-
 .nav-options .nav-link {
   color: white;
   font-size: 14px;
-  /* transition: opacity 1s ease-in-out; */
 }
 
 .navbar {
@@ -69,13 +51,11 @@ body,html{
 .nav-options {
   font-weight: 500;
   margin-left: 25px;
-  
 }
 
 #navbartext {
   font-size: 14px;
 }
-
 
 #basictemplete {
   background-image: url("images/banner2.jpg");
@@ -112,9 +92,6 @@ body,html{
   font-family: "poppins", sans-serif;
 }
 
-
-
-
 /* navbar section end  */
 
 /* about section start */
@@ -131,7 +108,6 @@ body,html{
   width: 100%; 
   margin: 0 auto;
 }
-
 
 .about-box {
   max-width: 530px;
@@ -163,11 +139,8 @@ body,html{
   margin: 0;
 }
 
-
-
 .about-button {
   background-color: rgb(0, 0, 0);
-  /* width: fit-content; */
   width: 13cqmax;
   padding: 1%;
   display: inline-block;
@@ -179,9 +152,7 @@ body,html{
 
 /* about section end */
 
-
 /* screenshot section */
-
 
 .screenshot-title {
   font-family: "poppins", sans-serif;
@@ -198,14 +169,12 @@ body,html{
 }
 
 #carouselExampleIndicators {
-  /* width: 50%; */
   margin: auto;
 }
 
 
 .screen-button {
   background-color: rgb(0, 0, 0);
-  /* width: 13cqmax; */
   width: fit-content;
   padding: 1%;
   display: inline-block;
@@ -215,9 +184,7 @@ body,html{
   border: 1px solid black;
 }
 
-
 /* screenshot section */
-
 
 /* services section  */
 #font-family {
@@ -227,14 +194,12 @@ body,html{
   padding-bottom: 3%;
 }
 
-
 #servicesincard {
   color: orangered;
   font-family: 'poppins', sans-serif;
   font-weight: normal;
   font-size: 2.2vh;
   margin: 1.5vw;
-  /* position: absolute; */
 }
 
 #servicesheading {
@@ -254,7 +219,6 @@ body,html{
   margin-right: 18%;
 }
 
-
 #no-border {
   border: none;
 }
@@ -262,7 +226,6 @@ body,html{
 #border-redius {
   border-radius: 15px;
 }
-
 
 .card-img-top {
   border-style: none;
@@ -272,16 +235,12 @@ body,html{
 
 /* services section  */
 
-
-
 /* blog section  */
-
 
 .cardheadersize {
   width: 30%;
   margin-left: -3.5px;
 }
-
 
 div #backcolor {
   border-radius: 0px;
@@ -296,12 +255,7 @@ div #backcolor {
 }
 
 #blogmargin {
-  /* margin-left: 13%; */
-  /* margin-right: 13%; */
   margin-top: 1%;
-  /* padding: 10px 30px; */
-  /* position: ; */
-  /* box-sizing: border-box; */
 }
 
 .blogservices .text-dark {
@@ -315,9 +269,6 @@ div #backcolor {
   margin: 0 auto;
   margin-bottom: 20px;
 }
-
-
-
 
 #orangecolor {
   color: orangered;
@@ -382,9 +333,7 @@ div #backcolor {
 
 .card-header {
   background-color: orangered;
-  /* display: inline; */
-    /* border-radius: 0px;
-  margin-left: -3.5px; */
+  
 }
 
 .card-head {
@@ -431,13 +380,8 @@ textarea {
   box-sizing: border-box;
 }
 
-
-
-
 .send-button {
   background-color: rgb(0, 0, 0);
-  /* width: 9cqmax; */
-  /* width: fit-content; */
   width: 12cqmax;
   padding: 3%;
   display: inline-block;
@@ -447,11 +391,9 @@ textarea {
   border: 1px solid black;
 }
 
-
 /* contact section  */
 
 /* footer section start  */
-
 
 .footer {
   background-color: orangered;
@@ -527,6 +469,5 @@ ul.footer-icon {
   font-size: 19px;
   line-height: 22px;
 }
-
 
 /* footer section end  */
